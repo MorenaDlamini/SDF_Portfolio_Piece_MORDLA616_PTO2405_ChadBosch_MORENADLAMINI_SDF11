@@ -1,0 +1,40 @@
+/* Common styles */
+.card-email,
+.card-phone,
+.card-address {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Email Card Hover Effect */
+.card-email:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Phone Card Hover Effect */
+.card-phone:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Address Card Hover Effect */
+.card-address:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Add this to your CSS file */
+.group:hover .group-hover\:block {
+  display: block;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  display: none;
+}
+
+
