@@ -7,7 +7,6 @@ Construct a business landing page for Cache Bank. Create a landing page that app
 Loom Link: [https://www.loom.com/share/807d686cd5ff4b94aba5fc490d5f563e?sid=f846abcb-d752-4cdc-95b3-568c64555e7e]
 Presentation Slides: [https://docs.google.com/presentation/d/1B8pTY1JN1SO4HUJgklfC9CAORM-iKUmo/edit?usp=drive_link&ouid=105455222428437131815&rtpof=true&sd=true]
 
-# Cache Bank Landing Page
 
 ## Overview
 
