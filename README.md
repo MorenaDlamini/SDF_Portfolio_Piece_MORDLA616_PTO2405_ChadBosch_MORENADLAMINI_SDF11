@@ -68,5 +68,4 @@ Cache Bank is a financial platform designed specifically for software developers
 
 ### 6. JavaScript Interactivity
 - **Challenge Faced:** Adding interactive features like animations or dynamic content.
-- **Difficulty:** Learning JavaScript fundamentals, DOM manipulation, and integrating libraries or frameworks like jQuery or React for more complex interactions.
-
+- **Difficulty:** Learning JavaScript fundamentals, DOM manipulation.
