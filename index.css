@@ -23,7 +23,7 @@
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Add this to your CSS file */
+
 .group:hover .group-hover\:block {
   display: block;
 }
